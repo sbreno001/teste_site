@@ -9,3 +9,7 @@ Exemplo: Uma tag pode ser um código de rastreamento do Google Analytics, um pix
 Acionadores (Triggers):
 O que são: São as condições ou eventos que determinam quando e onde uma tag será executada. Ou seja, os acionadores controlam o comportamento das tags, dizendo a elas quando devem ser ativadas.
 Exemplo: Você pode configurar um acionador para disparar uma tag de Google Analytics quando um visitante clicar em um botão específico ou quando uma página for carregada.
+-----------------------------------------------------------------------------------------------------
+https://www.youtube.com/watch?v=rJSQd9HK9dY&list=PLjm8rxH__HzIFyEFDukCqTdWA3-oiSqRW&index=3
+https://tagmanager.google.com/#/container/accounts/6270672403/containers/207183656/workspaces/3
+https://github.com/sbreno001/teste_site/settings/pages
